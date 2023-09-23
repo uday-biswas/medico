@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Hema",
+        "rating": "4.5",
+        "experience": "5",
+        "speciality": "consultancy",
+        "image": "https://ik.imagekit.io/bytebenders/doctor_01.png",
+        "description": "She is a dedicated and compassionate psychiatrist, specializing in the intricate realms of mental health. With a profound understanding of the human psyche, she provides invaluable support to individuals on their journey towards emotional well-being. "
+    },
+    {
+        "id": 2,
+        "name": "Nalini",
+        "rating": "4.7",
+        "experience": "3",
+        "speciality": "consultancy",
+        "image": "https://ik.imagekit.io/bytebenders/doctor_02.png",
+        "description": "She is a trailblazing psychiatrist, breaking barriers in the field of mental health. With innovative treatment methods and a commitment to improving access to care, she is revolutionizing how we approach mental well-being."
+    },
+    {
+        "id": 3,
+        "name": "Sushma",
+        "rating": "4.2",
+        "experience": "5",
+        "speciality": "consultancy",
+        "image": "https://ik.imagekit.io/bytebenders/doctor_03.png",
+        "description": "She is a renowned psychiatrist known for her exceptional ability to connect with patients. Her empathetic demeanor and active listening skills create a supportive environment where individuals can comfortably explore their inner worlds."
+    },
+    {
+        "id": 4,
+        "name": "Shubhashree",
+        "rating": "5.0",
+        "experience": "15",
+        "speciality": "consultancy",
+        "image": "https://ik.imagekit.io/bytebenders/doctor_04.png",
+        "description": "She is an accomplished psychiatrist with a deep understanding of the human mind. Her innovative therapeutic techniques and dedication to evidence-based practices have earned her recognition as a thought leader in the field. "
+    }
+]

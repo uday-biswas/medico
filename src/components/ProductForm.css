@@ -1,0 +1,27 @@
+.table {
+    color: white;
+    /* border-radius: 5px;
+    border: 1px solid #ddd; */
+    width: 100%;
+    font-size: large;
+    font-weight: 500;
+    background-color: rgb(25, 26, 25);
+}
+
+button {
+    margin: 10px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #62abf0;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+
+textarea {
+    height: 100px;
+    width: 180px;
+}
+
+.space {
+    margin: 5px;
+}
